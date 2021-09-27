@@ -26,4 +26,4 @@ Tweak the confidence so that false detections with less confidence is neglected
 I have also calculated the area for avoiding the detections which includes other than vehicle type car  
 Retrain the network by removing data that actually confuses the network
 # Conclusions
-Having trained the model and optimized it to the IR graph which actually runs on the integrated GPU
+Having trained the model and optimized it to the IR graph which actually runs on the integrated GPU. Can be improved by retraining and adding data where it goes worng
